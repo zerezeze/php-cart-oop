@@ -1,4 +1,4 @@
-# PHP E-commerce POO
+# PHP E-commerce OOP
 
 Este é um exemplo de sistema de e-commerce desenvolvido em PHP, utilizando Programação Orientada a Objetos (POO). O projeto abrange funcionalidades básicas, incluindo a criação de produtos, gerenciamento de um carrinho de compras e cálculo do valor total. É ideal para quem deseja estudar e praticar conceitos de POO e boas práticas em PHP.
 
